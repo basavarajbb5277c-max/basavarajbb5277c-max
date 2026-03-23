@@ -1,16 +1,14 @@
 # 👋 Hi, I'm Basavaraj B Basagoudar
 
 <p align="center">
-  <marquee behavior="scroll" direction="left">
-    💼 Data Analyst | 🐍 Python Developer | 💻 Coding Enthusiast
-  </marquee>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=Data+Analyst;Python+Developer;Coding+Enthusiast;CSBS+Pre-Final+Year+Student" />
 </p>
 
 ---
 
 ## 🎓 About Me
 
-I am a **pre-final year student** pursuing a degree in **Computer Science and Business Systems (CSBS)**. I have a strong interest in leveraging data to uncover insights and support decision-making. With a solid foundation in Python programming, I am continuously working to enhance my analytical and problem-solving skills.
+I am a **pre-final year student** pursuing a degree in **Computer Science and Business Systems (CSBS)**. I have a strong interest in **data analysis** and **Python development**, with a focus on extracting meaningful insights from data and solving real-world problems. I am passionate about continuous learning and improving my technical and analytical skills.
 
 ---
 
@@ -46,10 +44,4 @@ I am a **pre-final year student** pursuing a degree in **Computer Science and Bu
 
 ---
 
-## 📌 Additional Note
-
-I am passionate about transforming data into actionable insights and continuously improving my technical expertise through hands-on learning and practical implementation.
-
----
-
-⭐ *Thank you for visiting my GitHub profile. Feel free to explore my projects and connect with me.*
+⭐ *Feel free to explore my repositories and connect with me!*
