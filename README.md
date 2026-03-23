@@ -8,7 +8,11 @@
 
 ## 🎓 About Me
 
-I am a **pre-final year student** pursuing a degree in **Computer Science and Business Systems (CSBS)**. I have a strong interest in **data analysis** and **Python development**, with a focus on extracting meaningful insights from data and solving real-world problems. I am passionate about continuous learning and improving my technical and analytical skills.
+* 🎓 Pre-final year student in **Computer Science and Business Systems (CSBS)**
+* 📊 Strong interest in **Data Analysis** and extracting meaningful insights
+* 🐍 Passionate about **Python development** and problem-solving
+* 💡 Enthusiastic about applying data-driven approaches to real-world challenges
+* 📈 Continuously improving analytical and technical skills
 
 ---
 
