@@ -43,8 +43,8 @@
 
 ## 📫 Contact
 
-* **LinkedIn:** *(Add your LinkedIn profile link)*
-* **Email:** *(Add your email address)*
+* **LinkedIn:** *(https://www.linkedin.com/in/basavaraj-basagoudar-5b236b380/)*
+* **Email:** *(basavarajbb5277c@gmail.com)*
 
 ---
 
